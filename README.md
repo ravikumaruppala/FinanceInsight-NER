@@ -1,5 +1,4 @@
 # FinanceInsight-NER
-# FinanceInsight-NER
 
 ## Project Overview
 FinanceInsight-NER is a Natural Language Processing (NLP) project focused on
